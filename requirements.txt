@@ -1,0 +1,31 @@
+# PLANNING, REALITY, AND EXECUTION
+# Python Standard Library Only - No External Dependencies Required
+
+# This project is designed to work with Python 3.7+ standard library only.
+# No pip installations needed!
+
+# Optional dependencies for enhanced functionality:
+# (Uncomment if you want to add these features)
+
+# For better random number generation in simulations
+# numpy>=1.19.0
+
+# For data analysis and visualization of simulation results
+# pandas>=1.2.0
+# matplotlib>=3.3.0
+
+# For persistent storage of metrics and history
+# sqlalchemy>=1.4.0
+
+# For async tool monitoring
+# aiohttp>=3.8.0
+
+# For web-based dashboards
+# flask>=2.0.0
+# plotly>=5.0.0
+
+# For notifications and alerts
+# requests>=2.26.0
+
+# Python version requirement
+# python_requires = ">=3.7"
